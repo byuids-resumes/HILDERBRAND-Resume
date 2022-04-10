@@ -6,10 +6,10 @@ title: Austin Hilderbrand's Resume
 Senior at Brigham Young University - Idaho, seeking my B.S. in Computer Engineering.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+  <a href="austinlang748@gmail.com">austinlang748@gmail.com</a>
+| <body>602-390-5594</body>
+| <a href="www.linkedin.com/in/austin-hilderbrand">LinkedIn</a>
+| <a href="https://github.com/austinlang748/HILDERBRAND-Resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -23,60 +23,62 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.533 GPA
 - Primary interest: embedded systems
 
-## Related Experience
+#### _Relevant Coursework_
+- Embedded Systems
+- Microprocessor-Based System Design (TA)
+- Computer Architecture
+- Digital System Design
+- Digital Signal Processing
+- Calculus, Differential Equations, Linear Algebra
 
-### Internships
+#### _Planned Relevant Coursework_
+- Data and Computer Communications
+- Senior Project
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## Skills
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+#### Technical Skills
+- C/C++ programming
+- Python programming
+- TI MSP430/432, Arduino
+- FPGA using Xilinx Vivado
+- Verilog
+- MATLAB
+- Lab equipment
+- Soldering, reflow
+- LTspice, Logisim
+- CCS, Visual Studio
+- GitHub, BitLab
 
-### Data Science Lead
+#### Soft Skills
+- Strong attention to detail
+- Documenting work
+- Time management
+- Team communication
+- Growth mindset
+- Professional Writing
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+## Research Experience
+##### University of Alaska Fairbanks, Space Systems Engineering Lab
+_ARC-2 Research Project – Intern_ `May – July 2021`
+Supervisor: Dr. Denise Thorsen, director of Alaska Space Grant and Alaska NASA EPSCoR programs
+- Researched methods to implement COSMOS as the command/telemetry GUI for ongoing CubeSat projects
+  - Established successful UART connection and wrote config files to define command/telemetry packets
+  - Used COSMOS to automate the EPS (Electrical Power System) testing procedure
+  - Wrote detailed documentation of my work and maintained a daily work log
+- Constructed and tested a development board for the ARC-2 (Alaska Research CubeSat-2)
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Awards
+- Phi Theta Kappa, Glendale Community College `2015-16`
+- Presidents' Honors Scholarship, Glendale Community College `1/15 - 5/16`
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Membership
+- IEEE `2022 - present`
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+## Projects
+##### _Basic Alarm System_
+I used two MSP 432 MCUs to implement a basic alarm system which included an LCD display, reed switches, a motion detector, and an alarm panel with audio/LED output and a pushbutton to disarm the system. 
+<a href="https://youtu.be/qsIFYUsIhj8">Demo link.</a>
 
 <!-- ### Footer
 
