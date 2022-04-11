@@ -52,7 +52,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 #### Soft Skills
 - Strong attention to detail
-- Documenting work
+- Well Documentation of work
 - Time management
 - Team communication
 - Growth mindset
